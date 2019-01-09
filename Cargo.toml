@@ -1,0 +1,6 @@
+[package]
+name = "chimpase"
+version = "0.1.0"
+authors = ["arotter <andreas.rotter.kontakt@gmail.com>"]
+
+[dependencies]
